@@ -1,12 +1,11 @@
 <div>
     <div align="center">
-        <h2>👋🏻 Hello, World! 🌎</h2>
+        <h1>👋🏻 Hello, World! 🌎</h1>
     </div>
     <div align="center">
-        <h3>About Me</h3>
-        <p>
-            Nickname : Reina<br>
-            Major : Software Engineering<br>
-        </p>
+        <h2>About Me</h2>
+    </div>
+    <div align="center">
+        <h2>Skills</h2>
     </div>
 </div>
