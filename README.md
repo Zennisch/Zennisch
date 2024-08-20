@@ -4,6 +4,6 @@
     </div>
     <div align="center">
         <h2>About Me</h2>
-        <h3>Nickname : Reina</h3>
+        <h4>Nickname : Reina</h4>
     </div>
 </div>
