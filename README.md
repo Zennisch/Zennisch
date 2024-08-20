@@ -1,9 +1,9 @@
 <div>
     <div align="center">
-        <h1>👋🏻 Hello, World! 🌎</h1>
+        <h2>👋🏻 Hello, World! 🌎</h2>
     </div>
     <div align="center">
-        <h2>About Me</h2>
-        <h4>Nickname : Reina</h4>
+        <h3>About Me</h3>
+        <p>Nickname : Reina</p>
     </div>
 </div>
