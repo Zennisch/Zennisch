@@ -4,8 +4,8 @@
             👋🏻 Hello, World! 🌎
         </h1>
     </div>
-    <div>
-        <h3 align="center">
+    <div align="center">
+        <h3>
             About Me
         </h3>
         <hr>
