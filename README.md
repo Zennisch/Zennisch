@@ -16,6 +16,9 @@
     </div>
     <div align="center">
         <h3>Stats</h3>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicReina&langs_count=6" alt="Top Langs" />
+        </div>
     </div>
     <div align="center">
         <h3>Contact</h3>
