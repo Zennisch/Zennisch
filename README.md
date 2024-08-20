@@ -1,5 +1,3 @@
 <h1 align="center">
-    <span style="color: #EEAACC;">
-        Hello, World!
-    </span>
+    Hello, World!
 </h1>
