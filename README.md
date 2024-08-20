@@ -3,8 +3,6 @@
         <h1>👋🏻 Hello, World! 🌎</h1>
     </div>
     <div align="center">
-        <h3>About Me</h3>
-        <div>Nickname: Reina</div>
-        <hr>
+        <h2>About Me</h2>
     </div>
 </div>
