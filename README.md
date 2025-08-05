@@ -98,7 +98,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
    
-  <a href="[PASTE_YOUR_LINKEDIN_URL_HERE]">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
